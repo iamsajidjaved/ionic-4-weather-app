@@ -1,0 +1,9 @@
+{
+  "appId": "uk.co.colvus.weather",
+  "appName": "Colvus Wheather App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/snap/android-studio/current/android-studio/bin/studio.sh",
+  "cordova": {}
+}
