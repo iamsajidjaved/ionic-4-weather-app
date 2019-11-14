@@ -1,7 +1,5 @@
 import { Injectable } from '@angular/core';
 import {HttpClient, HttpHeaders} from "@angular/common/http";
-import { Plugins } from '@capacitor/core';
-const { Storage } = Plugins;
 
 @Injectable({
   providedIn: 'root'
