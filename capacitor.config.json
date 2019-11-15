@@ -1,6 +1,6 @@
 {
-  "appId": "uk.co.colvus.weather",
-  "appName": "Colvus Wheather App",
+  "appId": "io.ionic.starter",
+  "appName": "myApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
